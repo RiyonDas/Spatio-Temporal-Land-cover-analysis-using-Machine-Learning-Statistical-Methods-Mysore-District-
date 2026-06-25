@@ -10,3 +10,8 @@ Performed @KSRSAC - Karnataka State Remote Sensing Application Center, this proj
 1. Google Earth Engine (GEE)
 2. Erdas Imagine
 3. MS Excel
+
+## Methods:
+1. Random Forest (RF)
+2. Support Vector Machine (SVM)
+3. Maximum Likelihood Classifier (MLC)
