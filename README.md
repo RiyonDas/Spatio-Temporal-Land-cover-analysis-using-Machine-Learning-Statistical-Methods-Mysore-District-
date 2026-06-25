@@ -6,7 +6,7 @@ Performed @KSRSAC - Karnataka State Remote Sensing Application Center, this proj
 2. 2021 - Sentinel 2B
 3. 2024 - Sentinel 2B
 
-# Tools:
+## Tools:
 1. Google Earth Engine (GEE)
 2. Erdas Imagine
 3. MS Excel
