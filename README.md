@@ -29,6 +29,4 @@ Performed @KSRSAC - Karnataka State Remote Sensing Application Center, this proj
 5. Kappa Coefficient
 
 ## Access the final Report here:
-- <a href="https://github.com/RiyonDas/Statistical-Characterization-of-Climatic-Trends-in-Delhi-NCR-1990-2022-/blob/main/Delhi_NCR_1990_2022_Safdarjung.csv"> Click here to access the CSV file
-
-
+- <a href="https://github.com/RiyonDas/Spatio-Temporal-Land-cover-analysis-using-Machine-Learning-Statistical-Methods-Mysore-District-/blob/main/internship_group1_final_report.pdf"> Final Project Report
