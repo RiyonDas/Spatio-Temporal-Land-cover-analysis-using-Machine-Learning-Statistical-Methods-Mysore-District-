@@ -1,0 +1,2 @@
+# Spatio-Temporal-Land-cover-analysis-using-Machine-Learning-Statistical-Methods-Mysore-District-
+Performed @KSRSAC - Karnataka State Remote Sensing Application Center, this project highlights the major Land Use &amp; Land Cover changes throughout the study period (2018-2024). Various ML &amp; statistical techniques such as Random Forest, Support Vector Machine and KNN models were deployed to quantify the area coverage (sqkm) of the land classes.
