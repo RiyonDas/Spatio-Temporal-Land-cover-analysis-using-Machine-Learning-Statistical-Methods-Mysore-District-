@@ -27,3 +27,6 @@ Performed @KSRSAC - Karnataka State Remote Sensing Application Center, this proj
 3. Producer Accuracy
 4. Overall Accuracy
 5. Kappa Coefficient
+
+## Access the final Report here:
+
