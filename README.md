@@ -29,4 +29,5 @@ Performed @KSRSAC - Karnataka State Remote Sensing Application Center, this proj
 5. Kappa Coefficient
 
 ## Access the final Report here:
+internship_group1_final_report.pdf
 
