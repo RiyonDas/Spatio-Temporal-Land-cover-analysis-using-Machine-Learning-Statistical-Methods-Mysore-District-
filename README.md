@@ -16,3 +16,4 @@ Performed @KSRSAC - Karnataka State Remote Sensing Application Center, this proj
 2. Support Vector Machine (SVM)
 3. Maximum Likelihood Classifier (MLC)
 
+https://code.earthengine.google.com/75f438b56a52f28d48a7b0db223c7987
