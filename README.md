@@ -16,4 +16,14 @@ Performed @KSRSAC - Karnataka State Remote Sensing Application Center, this proj
 2. Support Vector Machine (SVM)
 3. Maximum Likelihood Classifier (MLC)
 
-https://code.earthengine.google.com/75f438b56a52f28d48a7b0db223c7987
+## GEE Code Editor Scripts:
+1. 2018 - https://code.earthengine.google.com/75f438b56a52f28d48a7b0db223c7987
+2. 2021 - https://code.earthengine.google.com/d0f43fa89e4db4ee5036f3118ce93588
+3. 2024 - https://code.earthengine.google.com/faf8dc4c4a40a60c71ca7924d4d7848d
+
+## Evaluation Techniques:
+1. Confusion Matrix
+2. User Accuracy
+3. Producer Accuracy
+4. Overall Accuracy
+5. Kappa Coefficient
